@@ -1,5 +1,5 @@
 <template>
-  iii
+  aaa
   <!-- 表示される -->
   <Feature :is-feature="isFeatureFlugAdminPage">
     <HelloWorld msg="hoge" />
